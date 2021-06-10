@@ -1,3 +1,50 @@
+* {
+    font-family: 'Italiana', serif;
+}
+
+body {
+    background-image: 
+        linear-gradient(
+        rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5)
+      ), 
+      url(https://exclusivejobsinmalta.files.wordpress.com/2019/11/radio-and-mic.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+}
+
+h1 {
+    color: white;
+    font-weight: 400;
+    font-size: 50px;
+    
+}
+
+h3 {
+    color: white;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.navbar {
+    opacity: 90%;
+}
+
+.microphone {
+    height: 40px;
+    width: 40px;
+    margin: 10px;
+}
+
+.nav-link {
+    padding: 10px;
+    margin-left: 10px;
+    font-size: 30px;
+}
+
 .body-container {
     text-align: center;
 }
@@ -5,3 +52,20 @@
 .heading {
     margin-top: 50px;
 }
+
+/* .social {
+    color: white;
+    margin: 20px;
+} */
+
+.content-container {
+    margin-top: 100px;
+}
+
+/* .demo-categories, .full-demo, .main-photo {
+    background-color: #464646;
+    opacity: 80%;
+    height: 30rem;
+    padding: 25px;
+    margin: 15px;
+} */
