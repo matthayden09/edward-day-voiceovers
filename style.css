@@ -29,6 +29,10 @@ h3 {
     margin-top: 20px;
 }
 
+h4 {
+    padding: 10px;
+}
+
 .navbar {
     opacity: 90%;
 }
@@ -60,6 +64,12 @@ h3 {
 
 .content-container {
     margin-top: 100px;
+}
+
+.card {
+    align-items: center;
+    opacity: 70%;
+    padding: 10px;
 }
 
 /* .demo-categories, .full-demo, .main-photo {
